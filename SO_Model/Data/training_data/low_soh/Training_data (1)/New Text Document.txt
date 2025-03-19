@@ -1,0 +1,1 @@
+PFA,GOOD LOW A0:B7:65:61:70:1A EV-Doctor 456 problem battery NAKS ["NO", "NO", "", "NO", "48.39", "50.64", 785, 4535.49, 5.77769, 1.25986, 2.25, 4.64972, 0.38943, "OKAY"]

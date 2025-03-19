@@ -1,0 +1,1 @@
+PFA,BAD HIGH A0:B7:65:61:70:1A EV-Doctor 456 problem battery NAKS test 3 ["YES", "NO", "", "NO", "0.00", "52.95", 794, 4926.77, 6.205, 1.36855, 52.95, 0, 8.53344, "NOT OKAY"]

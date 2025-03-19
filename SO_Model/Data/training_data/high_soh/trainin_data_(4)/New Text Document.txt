@@ -1,0 +1,6 @@
+				BhI 	95.24	Good			
+NMC 48/25				Delta V	1.72				
+				DCIR	0.265842349				
+					Ideal	Actual	Avg current	time(10 min in hr	
+				ah(10min)	1.0002	1.05	5.965540765	0.1667	0.994455646
+						6.693078203	1.115736136		

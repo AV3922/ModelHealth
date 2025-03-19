@@ -1,0 +1,3 @@
+devno 11
+48v 25ah (theka battery)
+battery number 2466

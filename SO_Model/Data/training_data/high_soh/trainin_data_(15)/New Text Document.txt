@@ -1,0 +1,7 @@
+			 	50.52	bad			
+			Delta V	0.87				
+			DCIR	0.105				
+				Ideal	Actual	Avg current	time(10 min in hr	
+			ah(10min)	1.667	1.7	9.990815308	0.1667	1.665468912
+								
+48v 25ah NMC with 10 amp charger 								

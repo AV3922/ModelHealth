@@ -1,0 +1,1 @@
+PFA,NORMAL1 / 5 A0:B7:65:61:70:1A EV-Doctor HIGH problem battery NAKS full length test[]

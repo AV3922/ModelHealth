@@ -1,0 +1,6 @@
+			BhI 	98.76	Good			
+			Delta V	-0.79				
+			DCIR	0.158203125				
+NMC 48/28				Ideal	Actual	Avg current	time(10 min in hr	
+PFA,4 / 5 30:C6:F7:99:4C:06 EV-Doctor LOW kk 7814357798			ah(10min)	1.01005197	0.39	2.328269551	0.1667	0.388122534
+					6.261680532	1.043822145		
